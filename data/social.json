@@ -1,12 +1,12 @@
 {
   "links": [
     {
-      "name": "@Sergio_bestoff",
+      "name": "Twitter",
       "url": "https://twitter.com/Sergio_bestoff",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "bestoff-77",
+      "name": "Github",
       "url": "https://github.com/Bestoff-77",
       "image": "images/social/github.svg"
     }

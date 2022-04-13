@@ -1,11 +1,9 @@
 ---
-title: 'Sobre mi'
+title: 'About me'
 menu:
   main:
-    name: "Sobre mi"
+    name: "About me"
 ---
-
-## Quien soy yo
 
 ¿Qieres saber como inicio esta historia? 🤩
 

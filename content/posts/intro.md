@@ -9,9 +9,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Para mi la cultura de un profesional de software se basa en lo siguiente:
 
 -Alguien que persevera en sus objetivos.
--Quien comparte conocimiento.
--Despliega respeto.
--Da su compromiso.
--Y sea Honesto.
+-Comparte conocimiento con los demás.
+-Es una persona organizada.
+-Se compromete con su trabajo.
+-Y siempre muestra honestidad.
 
-Esto es muy importante en mi travesía.
+Esto es muy importante en mi.

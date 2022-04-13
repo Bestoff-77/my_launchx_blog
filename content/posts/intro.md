@@ -14,4 +14,4 @@ Para mi la cultura de un profesional de software se basa en lo siguiente:
 -Se compromete con su trabajo.
 -Y siempre muestra honestidad.
 
-Esto es muy importante en mi.
+Esto es muy importante para mi.
